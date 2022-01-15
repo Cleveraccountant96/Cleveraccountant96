@@ -1,0 +1,114 @@
+#style.css{
+body;
+    background-color:yellow;
+
+header;
+    background-color: red;
+    padding: 20px
+    text-align center
+    width- 100%
+    z-value 1
+    top- 0
+    left- 0
+}
+h1{  
+    color: white
+    border-margin 8px
+    border-color white
+    padding- 6px 12px
+    display- inline block
+    border-radius 20px
+}
+banner
+    position- relative
+
+banner image{ max-width: 100%
+
+banner Welcome 
+    position- absolute 
+    position-left 0 
+    position-top 30%
+
+banner h2
+    font-color black
+    font-family Geneva
+    font-size 73px
+
+nav
+    padding- 20px
+    position- sticky
+    top- 108px
+
+nav ul
+   white-space nowrap
+   max-width 1200px
+   margin- 0
+
+nav li
+   width- 20%
+   display- inline block
+   font-size 20px
+
+nav li joinus
+    border-margin 3px
+    border-color grey
+    display- inline block
+    font-color white
+
+nav li news
+    border-margin 3px
+    border-color grey
+    display- inline block
+    font-color white
+
+nav li try
+    border-margin 3px
+    border-color grey
+    display- inline block
+    font-color white
+
+nav li contact
+    border-margin 3px
+    border-color grey
+    display- inline block
+    font-color white
+
+main
+    max-width 100%
+    width- 1200px
+    margin- 80px
+    padding- 0 40px
+    box-sizing border box
+
+article h3
+    font-color red
+    font-family Geneva
+    font-size 32px
+
+article p
+    font-family Geneva
+    font-size 23px
+    line-height 2em
+
+images
+    text-align center
+    margin- 80px 0
+    white-space nowraping
+
+images li
+    display- inline block
+    width- 40%
+    margin 20px 5%
+
+images li img
+   max-width 100%
+
+join
+   text-align center
+   font-family italic
+
+form
+   text-align center
+
+copyright
+   text-align center;}
